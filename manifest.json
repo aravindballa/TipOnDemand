@@ -1,0 +1,7 @@
+{
+  "name": "Tip on Demand",
+  "short_name": "TOD",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}

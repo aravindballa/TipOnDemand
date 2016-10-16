@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "Tip on Demand",
+  "launch_path": "/index.html",
+  "description": "Get your own tips on the new tab page.",
+  "developer": {
+    "name": "Aravind Balla",
+    "url": "https://knowaravindballa.wordpress.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Tip on Demand",
+      "description": "Get your own tips on the new tab page."
+    }
+  }
+}
