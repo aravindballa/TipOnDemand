@@ -85,7 +85,7 @@ TipOnDemand.prototype.onAuthStateChanged = function(user) {
     var profilePicUrl = user.photoURL;
     var userName = user.displayName;
     // Set the user's profile pic and name.
-    this.userPic.style.backgroundImage = 'url(' + profilePicUrl + ')'; 
+    this.userPic.style.backgroundImage = 'url(' + profilePicUrl + ')'thub; 
     this.userName.textContent = userName;
 
     // Show user's profile and sign-out button.
